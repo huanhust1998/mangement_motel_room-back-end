@@ -1,4 +1,4 @@
-package common.security;
+package common.security.service;
 
 import common.entity.Role;
 import common.entity.User;
